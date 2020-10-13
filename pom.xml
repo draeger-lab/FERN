@@ -25,7 +25,7 @@
         <jdk.version>1.8</jdk.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.license.url>http://www.gnu.org/licenses/lgpl-3.0-standalone.html</project.license.url>
-        <junit.version>4.11</junit.version>
+        <junit.version>4.13.1</junit.version>
         <maven-javadoc-plugin.version>2.10.2</maven-javadoc-plugin.version>
     </properties>
 
